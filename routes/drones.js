@@ -4,6 +4,8 @@ const Drone = require("../models/Drone.model.js")
 
 // require the Drone model here
 
+//! Formé pareja con Ivan, compartiendo su pantalla él escrivia las iteraciones impares y yo las pares. Luego me eqivoqué con el git y acabamos haciendo el CSS cada uno por su cuenta.
+
 router.get('/drones', (req, res, next) => {
   // Iteration #2: List the drones
   // ... your code here
